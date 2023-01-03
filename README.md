@@ -1,9 +1,9 @@
 # Medit
 
-This is a port of Pascal Frey's software Medit, found at
+This is a port of Pascal Frey's OpenGL-based scientific visualization software Medit, found at
 <https://www.ljll.math.upmc.fr/frey/software.html>
 
-In this port, only linux is tested.
+In this port, only linux has been tested.
 
 ## Installation
 
